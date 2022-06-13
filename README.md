@@ -14,5 +14,5 @@ This Project covers how to use Spring Boot with Spring Kafka to Publish JSON/Str
 - `bin/kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic Kafka_Example --from-beginning`
 
 ## Publish message via WebService
-- `http://localhost:8081/kafka/publish/Sam`
-- `http://localhost:8081/kafka/publish/Peter`
+- `http://localhost:8081/kafka/publish/Raj`
+- `http://localhost:8081/kafka/publish/Rahul`
